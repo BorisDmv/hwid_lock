@@ -1,2 +1,7 @@
-# hwid_lock
-Built with node for getting device hwid and checking if it exist from a given location by reading and comparing
+# HWID LOCK
+
+Things used
+
+* NodeJS
+* FS from NODEJS for reading from the file system
+* For getting original HWID https://www.npmjs.com/package/hwid
